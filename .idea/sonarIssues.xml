@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/introjunit.iml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../oi-controle/venda-de-chip/controle-oi-venda-de-chip/src/main/java/br/com/m4u/oicontrole/vendadechip/adapter/eldorado/EldoradoAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../oi-controle/venda-de-chip/controle-oi-venda-de-chip/src/test/java/br/com/m4u/oicontrole/vendadechip/app/adapter/rest/api/V1ApiControllerMockMvcIntegrationTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../oi-controle/venda-de-chip/controle-oi-venda-de-chip/src/test/java/br/com/m4u/oicontrole/vendadechip/app/adapter/rest/api/V1IntegrationApiControllerIntegrationTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../oi-controle/venda-de-chip/controle-oi-venda-de-chip/src/test/resources/application-integration.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../oi-controle/venda-de-chip/controle-oi-venda-de-chip/src/test/resources/payloads/IVUseCaseResponse.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../oi-controle/venda-de-chip/controle-oi-venda-de-chip/src/test/resources/payloads/Teste.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
